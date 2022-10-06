@@ -7,3 +7,9 @@ func solution(_ arr:[Int]) -> Double {
     
     return avg
 }
+
+//고수의 풀이
+//func solution(_ arr:[Int]) -> Double {
+//
+//    return Double(arr.reduce(0,+))/Double(arr.count)
+//}
