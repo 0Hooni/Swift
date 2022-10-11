@@ -21,3 +21,8 @@ func solution(_ s:String) -> Bool
 //    return string.components(separatedBy: "p").count == string.components(separatedBy: "y").count
 //}
 
+//문제의 요구조건을 통해 생각해내기 좋은 풀이라 생각
+//func solution(_ s:String) -> Bool
+//{
+//    return s.lowercased().filter { $0 == "p" }.count == s.lowercased().filter { $0 == "y" }.count
+//}
