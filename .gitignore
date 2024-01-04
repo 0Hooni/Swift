@@ -90,3 +90,6 @@ fastlane/test_output
 iOSInjectionProject/
 Algorithm/Algorithm/main.swift
 Algorithm/Complete/0_Copy only.swift
+.DS_Store
+Programmers/Programmers.xcodeproj/project.pbxproj
+Programmers/Programmers/main.swift
