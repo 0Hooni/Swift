@@ -41,7 +41,6 @@
 		05C8C9422B45AB0C008C2CCA = {
 			isa = PBXGroup;
 			children = (
-				05C8C9552B45AB27008C2CCA /* Solved */,
 				05C8C94D2B45AB0C008C2CCA /* Programmers */,
 				05C8C94C2B45AB0C008C2CCA /* Products */,
 			);
@@ -61,13 +60,6 @@
 				05C8C94E2B45AB0C008C2CCA /* main.swift */,
 			);
 			path = Programmers;
-			sourceTree = "<group>";
-		};
-		05C8C9552B45AB27008C2CCA /* Solved */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Solved;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
